@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="Pembuka">Selamat Datang DiToko Kami</string>
+    <string name="Pembukaan">Selamat Datang : </string>
+    <string name="Nama">Nama</string>
+    <string name="Emas">Emas</string>
+    <string name="Perak">Perak</string>
+    <string name="Perunggu">Perunggu</string>
+    <string name="Nama2">Nama :</string>
+    <string name="Kode_Item">kode item : </string>
+    <string name="Jumlah">Jumlah</string>
+    <string name="Selesai">Selesai</string>
+    <string name="Edisi">Edisi Ramadhan</string>
+    <string name="Tipe_Keanggotaan">Tipe Keanggotaan : </string>
+    <string name="Kode_barang">Kode Barang : </string>
+    <string name="Nama_barang">Nama Barang : </string>
+    <string name="Harga">Harga : </string>
+    <string name="Total">Total : </string>
+    <string name="Diskon_harga">Diskon Harga > 10juta : </string>
+    <string name="Diskon_keanggotaan">Diskon Keanggotaan : </string>
+    <string name="Total_semua">Total Semuanya : </string>
+    <string name="Penutup">Terimakasih Telah Berbelanja DiToko Kami</string>
+    <string name="Bagikan">Bagikan</string>
+    <string name="ucapan">Selamat Menunaikan Ibadah Puasa</string>
+    <string name="Tipe">Tipe Pelanggan : </string>
+
+
+</resources>

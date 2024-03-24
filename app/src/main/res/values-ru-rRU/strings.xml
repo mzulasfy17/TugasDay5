@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="Pembuka">Добро пожаловать в наш магазин</string>
+    <string name="Pembukaan">ДОБРО ПОЖАЛОВАТЬ : </string>
+    <string name="Nama">Имя</string>
+    <string name="Perak">серебро</string>
+    <string name="Perunggu">бронза</string>
+    <string name="Tipe">Тип клиента : </string>
+    <string name="Nama2">Имя : </string>
+    <string name="Kode_Item">Код изделия</string>
+    <string name="Jumlah">количество</string>
+    <string name="Selesai">Законченный</string>
+    <string name="Edisi">Рамадан издание</string>
+    <string name="Tipe_Keanggotaan">Тип членства</string>
+    <string name="Kode_barang">Код изделия : </string>
+    <string name="Nama_barang">Название товара : </string>
+    <string name="Harga">Цена : </string>
+    <string name="Total">Общий : </string>
+    <string name="Diskon_harga">Скидка на цены выше 10 миллионов</string>
+    <string name="Diskon_keanggotaan">Скидки на членство</string>
+    <string name="Total_semua">Общая сумма</string>
+    <string name="Penutup">Спасибо за покупку в нашем магазине</string>
+    <string name="Bagikan">Делиться</string>
+    <string name="ucapan">Приятного поста</string>
+    <string name="Emas">золото</string>
+</resources>

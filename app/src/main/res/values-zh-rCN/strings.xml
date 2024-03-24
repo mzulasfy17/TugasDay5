@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="Pembuka">欢迎来到我们的商店</string>
+    <string name="Pembukaan">欢迎</string>
+    <string name="Nama">姓名</string>
+    <string name="Emas">金子</string>
+    <string name="Perak">银</string>
+    <string name="Perunggu">青铜</string>
+    <string name="Nama2">"姓名 : "</string>
+    <string name="Kode_Item">"项目代码 : "</string>
+    <string name="Jumlah">数量</string>
+    <string name="Selesai">完成的</string>
+    <string name="Edisi">完成的</string>
+    <string name="Tipe_Keanggotaan">"会员类型 : "</string>
+    <string name="Kode_barang">"项目代码 : "</string>
+    <string name="Nama_barang">"货物名称 : "</string>
+    <string name="Harga">"价格 : "</string>
+    <string name="Total">"全部的 : "</string>
+    <string name="Diskon_harga">"价格优惠 > 1000万 : "</string>
+    <string name="Diskon_keanggotaan">"会员折扣 : "</string>
+    <string name="Total_semua">"总金额 : "</string>
+    <string name="Penutup">感谢您在我们店购买</string>
+    <string name="Bagikan">分享</string>
+    <string name="ucapan">快乐禁食</string>
+    <string name="Tipe">"客户类型 : "</string>
+</resources>

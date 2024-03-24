@@ -1,0 +1,104 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Pembuka"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textAlignment="center"/>
+
+<com.google.android.material.textfield.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/etname"
+        android:text=" "
+        android:hint="@string/Nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapCharacters"/>
+</com.google.android.material.textfield.TextInputLayout>
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Kode_Item"
+        android:textColor="@color/black"/>
+
+    <RadioGroup
+        android:id="@+id/customorType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rbgold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Emas"
+            android:textColor="@color/black"/>
+        <RadioButton
+            android:id="@+id/rbsilver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Perak"
+            android:textColor="@color/black"/>
+        <RadioButton
+            android:id="@+id/rbbronze"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Perunggu"
+            android:textColor="@color/black"/>
+    </RadioGroup>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etitemcode"
+            android:text=" "
+            android:hint="@string/Kode_Item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapCharacters"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etjumlah"
+            android:text=" "
+            android:hint="@string/Jumlah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapCharacters"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/btfinished"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Selesai" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Edisi"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+
+</LinearLayout>
